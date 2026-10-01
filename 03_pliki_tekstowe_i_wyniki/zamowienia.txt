@@ -1,0 +1,4 @@
+herbata;2;650
+kanapka;1;1200
+herbata;1;650
+kakao;2;900

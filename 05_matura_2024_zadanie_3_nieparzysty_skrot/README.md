@@ -1,4 +1,4 @@
-# Lekcja 5. Matura 2024: Nieparzysty skrót krok po kroku
+# Lekcja 5. Matura 2024: Nieparzysty skrót
 
 Otwórz karta_pracy.ipynb w Jupyter w tym katalogu. Nie korzystaj z kodu ani zmiennych uruchomionych w innej karcie.
 

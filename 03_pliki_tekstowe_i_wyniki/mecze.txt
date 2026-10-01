@@ -1,0 +1,4 @@
+Orly;Wilki;2;1
+Rysie;Orly;0;0
+Wilki;Rysie;3;1
+Orly;Wilki;1;1

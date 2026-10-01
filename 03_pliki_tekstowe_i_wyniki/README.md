@@ -10,6 +10,10 @@ Pliki wejściowe:
 - dron.txt
 - symbole_przyklad.txt
 - demo-liczby.txt
+- sygnal.txt
+- paczki.txt
+- zamowienia.txt
+- mecze.txt
 
 Sam napisz otwarcie, odczyt i konwersję danych. Wyniki zapisuj obok notatnika pod nazwami z poleceń. Nie zmieniaj plików wejściowych.
 
